@@ -1,3 +1,9 @@
-/.venv
+# training and testing
+feature_matrix.npy
+
+# preprocessing
 /Apis
 /Bombus
+
+# misc
+/.venv
