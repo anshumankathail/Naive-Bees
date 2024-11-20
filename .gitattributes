@@ -1,0 +1,10 @@
+# Automatically normalize all text files to LF
+* text=auto
+
+# Force specific file types to LF
+*.ipynb eol=lf
+*.py eol=lf
+
+# For binary files (no conversion)
+*.jpg binary
+*.png binary
