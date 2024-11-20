@@ -1,9 +1,14 @@
-# training and testing
+# saved images
+Apis/
+Bombus/
+
+# image features
 feature_matrix.npy
 
-# preprocessing
-/Apis
-/Bombus
+# saved models
+Models/
 
 # misc
-/.venv
+.venv/
+*.out
+.ipynb_checkpoints/
