@@ -9,6 +9,7 @@ feature_matrix.npy
 Models/
 
 # misc
-.venv/
 *.out
+.venv/
+__pycache__/
 .ipynb_checkpoints/
