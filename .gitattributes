@@ -8,3 +8,7 @@
 # For binary files (no conversion)
 *.jpg binary
 *.png binary
+
+*.ipynb filter=nbstripout
+*.zpln filter=nbstripout
+*.ipynb diff=ipynb
